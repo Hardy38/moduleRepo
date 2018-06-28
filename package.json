@@ -1,0 +1,22 @@
+{
+  "name": "file-loder",
+  "version": "0.0.1",
+  "description": "Test de création d'un module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Hardy38/moduleRepo.git"
+  },
+  "author": "Hardy Nkouka",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Hardy38/moduleRepo/issues"
+  },
+  "homepage": "https://github.com/Hardy38/moduleRepo#readme",
+  "devDependencies": {
+    "typescript": "^2.9.2"
+  }
+}
